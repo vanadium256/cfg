@@ -5,6 +5,6 @@ Clone &amp; File Grabber - this is a program for downloading files and cloning G
 
 `pip install gitpython requests`
 
-For Clone Repository: python cfg.py \<link> \<folder name to save> [clone]
+For Clone Repository: `python cfg.py \<link> \<folder name to save> [clone]`
 
-For download file: python cfg.py \<link> (filename)
+For download file: `python cfg.py \<link> (filename)`
