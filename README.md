@@ -15,3 +15,7 @@ The version of the program is written in Rust in Russian, I will be able to tran
 
 To use it, open the folder in the console and type: ``./cfg <link> <filename>``
 For clone repository: ``./cfg <link> <foldername> clone``
+
+# v1.1.1
+
+translated into English.
