@@ -19,3 +19,7 @@ For clone repository: ``./cfg <link> <foldername> clone``
 # v1.1.1
 
 translated into English.
+
+# Java Version Coming Soon
+
+I am completely rewriting the program in Java. It will be like version 2.1.0 in releases.
