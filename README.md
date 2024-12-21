@@ -1,6 +1,10 @@
 # What is this
 Clone &amp; File Grabber - this is a program for downloading files and cloning GitHub repositories.
 
+# Why am I doing this?
+
+I just wanted to write some program to rewrite it into other programming languages. The functions are all the same. I'm just curious myself.
+
 # How to use
 
 `pip install gitpython requests`
